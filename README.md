@@ -1,6 +1,7 @@
 # Bharat Club – Secure Skill-Based Gaming in India
 
-![Bharat Club Logo](https://github.com/user-attachments/assets/f1862af-51ee-4abb-883b-4b1db7c616f)
+![Bharat Club Logo](./bhtclubofficial-logo.png)
+
 
 Bharat Club is a trusted Indian platform for **skill-based colour prediction games** and multi-game entertainment. We focus on fair play, transparent rules, and instant payouts via UPI.
 
